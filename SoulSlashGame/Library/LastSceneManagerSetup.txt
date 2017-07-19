@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Tests/Test Movement.unity
+- path: Assets/Scenes/Tests/3. Test Player Dash.unity
   isLoaded: 1
   isActive: 1
